@@ -1,6 +1,6 @@
 import React from "react";
 
-function Card({username1,btnText = "Viit me"}){
+function Card({username1,btnText = "Vist me"}){
     return (
         <>
         <div className="w-[300px] rounded-md border">
